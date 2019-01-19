@@ -1,3 +1,6 @@
+Modification of the forked package in order to work with Titanic data set and C4.5 algorithm (not tested for other algorithms!). Modified in cooperation with [Marcin Mazurkiewicz](https://github.com/m-mazurkiewicz).
+
+Run as: `python dtree.py`. Decision tree is stored in folder `dtree`.
 # decisionTree
 Decision tree classifier for credit dataset using ID3,C4.5 and CBDSDT
 
